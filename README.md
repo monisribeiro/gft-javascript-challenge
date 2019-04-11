@@ -10,7 +10,7 @@ How to run:
 
 4. Run "npm start" on cmd or git bash (this will start the server) 
 
-5. Run npm run dev on a different cmd or git bash (start the front end)
+5. Run "npm run dev" on a different cmd or git bash (start the front end)
 
 Now you're all set to begin you're development. 
 	Edit files index.html, src/index.js for scripts and src/index.scss 
